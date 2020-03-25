@@ -7,4 +7,5 @@ def speak_to_grandma(phrase="Hey grandma")
     return "NO, NOT SINCE 1938!"
   else
   end
+  speak_to_grandma("hey grandma")
 end
